@@ -13,9 +13,9 @@ background-size: cover;
 
 :root 
 {
-    --primary-color: #38BDF8;
+    --primary-color: #7DD3FC;
     --light-blue: #BAE6FD;
-    --grey: #CBD5E1;
+    --grey: #D1D5DB;
     --dark-grey: #6B7280;
 }
 
@@ -151,7 +151,7 @@ padding: 2rem;
 
 .ow
 {
-    background-color: var(--grey);
+    background-color: white;
     border-radius: 0.2rem;
     color: var(--dark-grey);
 }
