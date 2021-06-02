@@ -51,6 +51,7 @@ hr
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
+    font-weight: bold;
 }
 
 .link-secondary
@@ -58,6 +59,8 @@ hr
     background-color: var(--light-blue);
     border-radius: 0.5rem;
     color: white;
+    font-weight: bold;
+    border: 1px solid white;
 }
 
 /* lists */
