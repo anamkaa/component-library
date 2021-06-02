@@ -16,6 +16,7 @@ background-size: cover;
     --primary-color: #38BDF8;
     --light-blue: #BAE6FD;
     --grey: #CBD5E1;
+    --dark-grey: #6B7280;
 }
 
 hr
@@ -145,14 +146,14 @@ padding: 2rem;
 {
     background-color: var(--light-blue);
     border-radius: 0.2rem;
-    color: white;
+    color: var(--dark-grey);
 }
 
 .ow
 {
     background-color: var(--grey);
     border-radius: 0.2rem;
-    color: white;
+    color: var(--dark-grey);
 }
 
 /* footer */
